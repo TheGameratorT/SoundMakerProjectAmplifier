@@ -1,5 +1,5 @@
 # Sound Maker Project Amplifier
-Amplify as many DS game to an ear rape as you want.
+Amplify as many DS games to an ear rape as you want.
 
 # Requirements:
  - Microsoft Visual Studio C++ Redistributable
