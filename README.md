@@ -2,8 +2,8 @@
 Amplify as many DS game to an ear rape as you want.
 
 # Requirements:
- - Microsoft Visual Studio C++ Redistributable\
- - ffmpeg.exe\
+ - Microsoft Visual Studio C++ Redistributable
+ - ffmpeg.exe
  - waveconv.exe (found in the NitroSDK)
 
 # Instuctions:
